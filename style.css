@@ -49,6 +49,7 @@ a {
     display: inline-block;
     height: 700px;
     width: 1200px;
+    margin: 0 auto;
 }
 
 #mission article {
